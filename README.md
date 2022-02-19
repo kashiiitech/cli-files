@@ -3,7 +3,7 @@ Get in the rhythm of the command line as a first step towards Linux System Admin
 
 
 
-Understand the usage of Linux command line
+## Understand the usage of Linux command line
 
 Understand how simple commands can be chained together to solve real issues
 
