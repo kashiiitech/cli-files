@@ -12,3 +12,8 @@ Get in the rhythm of the command line as a first step towards Linux System Admin
 ### Understand why experts prefer the command line instead over Graphical User Interfaces
 
 ### Work with the extremely powerful vi editor and understand why people are so crazy about it (and how it can be useful to you)
+
+
+## Course link
+
+http://recluze.net/learn
